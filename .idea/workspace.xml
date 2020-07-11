@@ -11,17 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8aec219-064e-45ba-8669-d13dd457cf47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/geekbrains/lesson8/ButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/geekbrains/lesson8/GUIFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/geekbrains/lesson8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/geekbrains/lesson8/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../catch_the_drop" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -46,6 +52,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,5 +81,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1594505191824">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594505191824" />
+    <state width="1237" height="130" key="GridCell.Tab.0.bottom" timestamp="1594510484164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594510484164" />
+    <state width="1237" height="130" key="GridCell.Tab.0.center" timestamp="1594510484164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594510484164" />
+    <state width="1237" height="130" key="GridCell.Tab.0.left" timestamp="1594510484164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594510484164" />
+    <state width="1237" height="130" key="GridCell.Tab.0.right" timestamp="1594510484164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="130" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594510484164" />
   </component>
 </project>
